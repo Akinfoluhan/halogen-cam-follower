@@ -16,11 +16,19 @@ This project designed a cam–follower mechanism to automate the insertion of ha
 
 ## Project visuals
 
+### SVAJ Diagram
+
 ![SVAJ diagram](media/figures/svaj-diagram.jpg)
+
+### Exploded Assembly View
 
 ![Exploded assembly view](media/figures/exploded-assembly.jpg)
 
+### Simple Assembly View
+
 ![Simple assembly view](media/figures/simple-assembly.jpg)
+
+### 3D Render
 
 ![3D render](media/figures/render.jpg)
 
