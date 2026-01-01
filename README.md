@@ -32,6 +32,10 @@ This project designed a cam–follower mechanism to automate the insertion of ha
 
 ![3D render](media/figures/render.jpg)
 
+### Physical Prototype
+
+![Physical prototype](media/figures/prototype.jpg)
+
 ## Mechanism design
 
 The system uses a cam driving a translating follower to generate the required gripper motion during halogen bulb assembly. Cam geometry and follower motion laws were chosen to satisfy displacement requirements while keeping the pressure angle within an acceptable range and maintaining a manufacturable base circle radius.
